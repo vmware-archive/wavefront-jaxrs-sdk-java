@@ -1,3 +1,6 @@
+```
+VMware has ended active development of this project, this repository will no longer be updated.
+```
 # wavefront-jaxrs-sdk-java [![build status][ci-img]][ci] [![Released Version][maven-img]][maven]
 
 The Wavefront by VMware JAX-RS SDK for Java provides out-of-the-box trace data from JAX-RS based clients in your Java application. You can analyze the tracing data in [Wavefront](https://www.wavefront.com/) to better understand how your application is performing in production. If you have multiple services running, you can instrument your server-side service with our [Wavefront Jersey SDK](https://github.com/wavefrontHQ/wavefront-jersey-sdk-java) to form a complete trace.
